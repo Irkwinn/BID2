@@ -7,13 +7,6 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-    <header>
-        <a href="index.html"><img id="logo" width="200" height="100" src="./assets/BITEID_WHITE.svg" alt="BiteID"></a>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="mdr.html">MDR</a>
-        </nav>
-    </header>
 <section class="hero">
   <div class="container">
     <div id="myCarousel" class="carousel slide pointer-event">
@@ -24,19 +17,19 @@ eleventyNavigation:
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <div class="hero-content d-grid grid-template-rows: 1fr auto;"> <div class="spacer2"></div> <img src="./assets/BITEID_WHITE.svg" width="200" height="100" alt="BiteID">  <div class="hero-text">
+          <div class="hero-content d-grid grid-template-rows: 1fr auto;"> <div class="spacer2"></div> <img src="./static/img/BITEID_WHITE.svg" width="200" height="100" alt="BiteID">  <div class="hero-text">
             <h1 class="welcome-text">Welcome to</h1> <div class="spacer"></div> <h2>BiteID</h2>  <h3>Digital Passport.</h3> <p>The First Digital Passport for Medical Devices.</p>
             <a href="https://www.biteid.com/login" class="hbutton">Login</a> <div class="spacer2"></div> </div>
           </div>
         </div>
           <div class="carousel-item">
-            <div class="hero-content d-grid grid-template-rows: auto 1fr auto;"> <div class="spacer2"></div> <img src="./assets/scanid.svg" width="200" height="100" alt="ScanID">  <div class="hero-text">
+            <div class="hero-content d-grid grid-template-rows: auto 1fr auto;"> <div class="spacer2"></div> <img src="./static/img/scanid.svg" width="200" height="100" alt="ScanID">  <div class="hero-text">
               <h1 class="welcome-text">Welcome to</h1> <div class="spacer"></div> <h2>BiteID+</h2>  <h3>everything You need.</h3> <p>Get more, and have more back.</p> 
               <a href="https://www.biteid.com/login" class="hbutton">Login</a> <div class="spacer2"></div> </div>
             </div>
           </div>
           <div class="carousel-item">
-            <div class="hero-content d-grid grid-template-rows: auto 1fr auto;"> <div class="spacer2"></div> <img src="./assets/scanmd.svg" width="200" height="100" alt="ScanMD">  <div class="hero-text">
+            <div class="hero-content d-grid grid-template-rows: auto 1fr auto;"> <div class="spacer2"></div> <img src="./static/img/scanmd.svg" width="200" height="100" alt="ScanMD">  <div class="hero-text">
               <h1 class="welcome-text">Welcome to</h1> <div class="spacer"></div> <h2>ScanMD</h2>  <h3>Keep Your Data safe.</h3> <p>The smartest solution to keep Your Data safe.</p>
               <a href="https://www.biteid.com/login" class="hbutton">Login</a> <div class="spacer2"></div> </div>
             </div>
